@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA2", "CA2\CA2.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinService", "WinService\WinService.csproj", "{93A10204-7883-465F-B7C3-CAD81F77038D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDIApplication", "MDIApplication\MDIApplication.csproj", "{55072C75-977D-4609-9A73-AF82FF12E220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{93A10204-7883-465F-B7C3-CAD81F77038D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93A10204-7883-465F-B7C3-CAD81F77038D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93A10204-7883-465F-B7C3-CAD81F77038D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55072C75-977D-4609-9A73-AF82FF12E220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55072C75-977D-4609-9A73-AF82FF12E220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55072C75-977D-4609-9A73-AF82FF12E220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55072C75-977D-4609-9A73-AF82FF12E220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
